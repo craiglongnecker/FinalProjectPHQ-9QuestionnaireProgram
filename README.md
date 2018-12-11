@@ -2,15 +2,25 @@
 My final project is based on the PHQ-9 questionnaire.  It consists of 11 questions.  These are the 11 questions:
 
 QUESTION 1. LITTLE INTEREST OR PLEASURE IN DOING THINGS?
+
 QUESTION 2. FEELING DOWN, DEPRESSED OR HOPELESS?
+
 QUESTION 3. TROUBLE FALLING ASLEEP, OR SLEEPING TOO MUCH?
+
 QUESTION 4. FEELING TIRED OR HAVING LITTLE ENERGY?"
+
 QUESTION 5. POOR APPETITE OR OVEREATING?
+
 QUESTION 6. FEELING BAD ABOUT YOURSELF? - OR THAT YOU ARE A FAILURE OR HAVE LET YOURSELF OR YOUR FAMILY DOWN?
+
 QUESTION 7. TROUBLE CONCENTRATING ON THINGS, SUCH AS READING THE NEWSPAPER OR WATCHING TV?
+
 QUESTION 8. MOVING OR SPEAKING SO SLOWLY THAT OTHERS MAY HAVE NOTICED?  OR BEING SO RESTLESS THAT YOU HAVE BEEN MOVING MORE THAN USUAL?
+
 QUESTION 9. THOUGHTS THAT YOU WOULD BE BETTER OFF DEAD OR OF HURTING YOURSELF IN SOME WAY?
+
 QUESTION 10. IF YOU IDENTIFIED ANY PROBLEMS IN THE FIRST 9 QUESTIONS, HOW DIFFICULT HAVE THESE PROBLEMS MADE IT FOR YOU TO DO YOUR WORK, TAKE CARE OF THINGS AT HOME, OR GET ALONG WITH OTHER PEOPLE?
+
 QUESTION 11. DURING THE PAST 4 WEEKS, HOW OFTEN DID YOU TAKE ALL OF YOUR MEDICATIONS AS PRESCRIBED?
 
 The first nine questions are asked and the person answers each of these questions with a points system of 0, 1, 2, or 3.  These are “Not at all” for 0 points, “Several days” for 1 point, “More than half the days” for 2 points, and “Nearly every day” for 3 points.
@@ -43,8 +53,11 @@ The PatientHealthQuestionnaireGUI file contains the GUI for the application.  It
 
 Acknowledgments:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/
+
 US National Library of Medicine.
+
 National Institutes of Health.
+
 The development of the PHQ-9 was underwritten by an educational grant from Pfizer US Pharmaceuticals, New York, NY. PRIME-MD is
 a trademark of Pfizer Copyright held by Pfizer.
 
