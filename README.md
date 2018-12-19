@@ -1,5 +1,8 @@
 # FinalProjectPHQ-9QuestionnaireProgram
-My final project is based on the PHQ-9 questionnaire.  It consists of 11 questions.  These are the 11 questions:
+
+This program was completed in Java and Eclipse Photon.
+
+This program is based on the PHQ-9 questionnaire.  It consists of 11 questions.  These are the 11 questions:
 
 QUESTION 1. LITTLE INTEREST OR PLEASURE IN DOING THINGS?
 
